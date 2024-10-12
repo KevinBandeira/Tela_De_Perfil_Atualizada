@@ -289,7 +289,7 @@ color: #184DAB;
 
 @media only screen and (max-width: 1000px) {
     .controller {
-        height: 130vh;
+        height: 110vh;
     }
 
     .info {
@@ -322,8 +322,7 @@ color: #184DAB;
         flex-direction: column;
         justify-content: start;
         height: 120vh;
-        gap: 130px;
-        border: 1px solid red;
+        gap: 120px;
     }
     .arroz {
         display: none;
